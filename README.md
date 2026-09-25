@@ -146,19 +146,18 @@ Walking, IP rating, full harness, and a physical prototype of even one leg are s
 Payload at the outstretched hand and single-leg toe-off are the two numbers that still force a motor / pose / duty-cycle decision.
 
 ---
+## Renders
 
-## Рендеры
+All files: [IMAGES](IMAGES/)
 
-Все файлы: [IMAGES](IMAGES/)
-
-### Полный рост
+### Full height
 
 | | |
 |---|---|
 | ![](IMAGES/humanoid_full_size_1.png) | ![](IMAGES/humanoid_full_size_old.png) |
 | ![](IMAGES/humanoid_full_size_old_2.png) | |
 
-### Тело
+### Body
 
 | | |
 |---|---|
@@ -167,7 +166,7 @@ Payload at the outstretched hand and single-leg toe-off are the two numbers that
 | ![](IMAGES/Body_5.png) | ![](IMAGES/Body_old.png) |
 | ![](IMAGES/Body_Hard2_1.png) | |
 
-### Железо
+### Iron
 
 | | |
 |---|---|
@@ -175,20 +174,20 @@ Payload at the outstretched hand and single-leg toe-off are the two numbers that
 | ![](IMAGES/Hard3.png) | ![](IMAGES/Hard4.png) |
 | ![](IMAGES/Hard5.png) | |
 
-### Ноги
+### Legs
 
 | | |
 |---|---|
 | ![](IMAGES/Legs1.png) | ![](IMAGES/Legs2.png) |
 | ![](IMAGES/Legs3.png) | |
 
-### Голова
+### Head
 
 | | |
 |---|---|
 | ![](IMAGES/head_1.png) | ![](IMAGES/head_overlay_side_old.png) |
 
-### Кисть / пальцы
+### Hand/fingers
 
 | | |
 |---|---|
