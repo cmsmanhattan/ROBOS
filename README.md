@@ -147,4 +147,53 @@ Payload at the outstretched hand and single-leg toe-off are the two numbers that
 
 ---
 
+## Рендеры
+
+Все файлы: [IMAGES](IMAGES/)
+
+### Полный рост
+
+| | |
+|---|---|
+| ![](IMAGES/humanoid_full_size_1.png) | ![](IMAGES/humanoid_full_size_old.png) |
+| ![](IMAGES/humanoid_full_size_old_2.png) | |
+
+### Тело
+
+| | |
+|---|---|
+| ![](IMAGES/Boby1.png) | ![](IMAGES/Body_2.png) |
+| ![](IMAGES/Body_3.png) | ![](IMAGES/Body_4.png) |
+| ![](IMAGES/Body_5.png) | ![](IMAGES/Body_old.png) |
+| ![](IMAGES/Body_Hard2_1.png) | |
+
+### Железо
+
+| | |
+|---|---|
+| ![](IMAGES/Hard1.png) | ![](IMAGES/Hard2.png) |
+| ![](IMAGES/Hard3.png) | ![](IMAGES/Hard4.png) |
+| ![](IMAGES/Hard5.png) | |
+
+### Ноги
+
+| | |
+|---|---|
+| ![](IMAGES/Legs1.png) | ![](IMAGES/Legs2.png) |
+| ![](IMAGES/Legs3.png) | |
+
+### Голова
+
+| | |
+|---|---|
+| ![](IMAGES/head_1.png) | ![](IMAGES/head_overlay_side_old.png) |
+
+### Кисть / пальцы
+
+| | |
+|---|---|
+| ![](IMAGES/KNUCKLE_BAR_concept_v1_sheet%20(1).png) | ![](IMAGES/finder2.png) |
+| ![](IMAGES/finder3.png) | ![](IMAGES/finder4.png) |
+
+
 *Source: `README_PACK_v32.md` (assembled 2026-09-21, updated 2026-09-24/25).*
